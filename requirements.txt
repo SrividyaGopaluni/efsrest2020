@@ -8,7 +8,7 @@ PyJWT==1.7.1
 pytz==2020.1
 psycopg2==2.8.4
 
-Django==2.2.4
+Django==2.2.22
 psycopg2==2.8.4
 gunicorn
 django-heroku
